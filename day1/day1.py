@@ -1,4 +1,4 @@
-inputs = open("inputs.txt", 'r')
+inputs = open("day1/inputs.txt", 'r')
 rows = inputs.read().splitlines()
 
 split_rows = []
